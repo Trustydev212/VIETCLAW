@@ -1,0 +1,44 @@
+version: "3.8"
+
+services:
+  # Run metadata validation
+  validate:
+    build:
+      context: .
+      target: validate
+    volumes:
+      - ./data:/app/data:ro
+      - ./config:/app/config:ro
+
+  # Run document chunking
+  chunk:
+    build:
+      context: .
+      target: chunk
+    volumes:
+      - ./data:/app/data:ro
+      - ./config:/app/config:ro
+      - ./chunks:/app/chunks
+
+  # Build vector index (requires API keys)
+  index:
+    build:
+      context: .
+      target: base
+    env_file: .env
+    command: python scripts/build_index.py --chunks-dir chunks/ --config config/rag_config.yaml
+    volumes:
+      - ./chunks:/app/chunks:ro
+      - ./config:/app/config:ro
+      - ./vectordb:/app/vectordb
+
+  # Export embeddings
+  export:
+    build:
+      context: .
+      target: base
+    command: python scripts/export_embeddings.py --collection vietlaw_laws --format parquet --output exports/embeddings
+    volumes:
+      - ./vectordb:/app/vectordb:ro
+      - ./config:/app/config:ro
+      - ./exports:/app/exports

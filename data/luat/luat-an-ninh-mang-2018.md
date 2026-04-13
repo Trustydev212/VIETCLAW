@@ -5,10 +5,11 @@ loại_văn_bản: "Luật"
 cơ_quan_ban_hành: "Quốc hội"
 ngày_ban_hành: "2018-06-12"
 ngày_hiệu_lực: "2019-01-01"
-tình_trạng: "Hết hiệu lực (từ 01/07/2026)"
+tình_trạng: "Hết hiệu lực"
+ngày_hết_hiệu_lực: "2026-07-01"
 lĩnh_vực: "An ninh mạng"
 người_ký: "Nguyễn Thị Kim Ngân"
-văn_bản_thay_thế_bởi: "116/2025/QH15"
+văn_bản_thay_thế: "116/2025/QH15"
 tags: ["an-ninh-mạng", "bảo-mật", "dữ-liệu", "internet", "không-gian-mạng"]
 tóm_tắt: "Luật An ninh mạng 2018. Gồm 7 chương, 43 điều. LƯU Ý: Luật này sẽ bị thay thế bởi Luật An ninh mạng 2025 (số 116/2025/QH15) có hiệu lực từ 01/07/2026, hợp nhất Luật ATTT mạng 2015 và Luật ANM 2018."
 ---

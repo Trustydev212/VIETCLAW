@@ -142,7 +142,7 @@ class OpenAIEmbedder:
 
         api_key = os.environ.get("OPENAI_API_KEY")
         if not api_key:
-            raise EnvironmentError(
+            raise OSError(
                 "OPENAI_API_KEY environment variable is not set."
             )
 
@@ -336,7 +336,7 @@ def run(
     # ---- build embedder --------------------------------------------------
     try:
         embedder = OpenAIEmbedder(model=model, batch_size=batch_size)
-    except (ImportError, EnvironmentError) as exc:
+    except (OSError, ImportError) as exc:
         logger.error("Cannot initialise embedder: %s", exc)
         sys.exit(1)
 
