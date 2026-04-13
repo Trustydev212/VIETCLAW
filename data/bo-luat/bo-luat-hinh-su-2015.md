@@ -433,3 +433,125 @@ b) Quyền làm việc trong các cơ quan nhà nước và quyền phục vụ 
 2. Tịch thu tài sản chỉ được áp dụng đối với người bị kết án về tội phạm nghiêm trọng, tội phạm rất nghiêm trọng hoặc tội phạm đặc biệt nghiêm trọng xâm phạm an ninh quốc gia, tội phạm về ma túy, tham nhũng hoặc tội phạm khác do Bộ luật này quy định.
 
 3. Khi tịch thu toàn bộ tài sản vẫn để cho người bị kết án và gia đình họ có điều kiện sinh sống.
+
+## Phần thứ hai: Các tội phạm
+
+### Chương XIV: Các tội xâm phạm tính mạng, sức khỏe, nhân phẩm, danh dự của con người
+
+#### Điều 123. Tội giết người
+
+1. Người nào giết người thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 12 năm đến 20 năm, tù chung thân hoặc tử hình:
+
+a) Giết 02 người trở lên;
+b) Giết người dưới 16 tuổi;
+c) Giết phụ nữ mà biết là có thai;
+d) Giết người đang thi hành công vụ hoặc vì lý do công vụ của nạn nhân;
+đ) Giết ông, bà, cha, mẹ, người nuôi dưỡng, thầy giáo, cô giáo của mình;
+e) Giết người mà liền trước đó hoặc ngay sau đó lại thực hiện một tội phạm rất nghiêm trọng hoặc tội phạm đặc biệt nghiêm trọng;
+g) Để thực hiện hoặc che giấu tội phạm khác;
+h) Để lấy bộ phận cơ thể của nạn nhân;
+i) Thực hiện tội phạm một cách man rợ;
+k) Bằng cách lợi dụng nghề nghiệp;
+l) Bằng phương pháp có khả năng làm chết nhiều người;
+m) Thuê giết người hoặc giết người thuê;
+n) Có tính chất côn đồ;
+o) Có tổ chức;
+p) Tái phạm nguy hiểm;
+q) Vì động cơ đê hèn.
+
+2. Phạm tội không thuộc các trường hợp quy định tại khoản 1 Điều này, thì bị phạt tù từ 07 năm đến 15 năm.
+
+3. Người chuẩn bị phạm tội này, thì bị phạt tù từ 01 năm đến 05 năm.
+
+4. Người phạm tội còn có thể bị cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm, phạt quản chế hoặc cấm cư trú từ 01 năm đến 05 năm.
+
+#### Điều 124. Tội giết hoặc vứt bỏ con mới đẻ
+
+1. Người mẹ nào do ảnh hưởng nặng nề của tư tưởng lạc hậu hoặc trong hoàn cảnh khách quan đặc biệt mà giết con do mình đẻ ra trong 07 ngày tuổi, thì bị phạt tù từ 06 tháng đến 03 năm.
+
+2. Người mẹ nào do ảnh hưởng nặng nề của tư tưởng lạc hậu hoặc trong hoàn cảnh khách quan đặc biệt mà vứt bỏ con do mình đẻ ra trong 07 ngày tuổi dẫn đến hậu quả đứa trẻ chết, thì bị phạt tù từ 03 tháng đến 02 năm.
+
+#### Điều 125. Tội giết người trong trạng thái tinh thần bị kích động mạnh
+
+1. Người nào giết người trong trạng thái tinh thần bị kích động mạnh do hành vi trái pháp luật nghiêm trọng của nạn nhân đối với người đó hoặc đối với người thân thích của người đó, thì bị phạt tù từ 06 tháng đến 03 năm.
+
+2. Giết 02 người trở lên trong trạng thái tinh thần bị kích động mạnh, thì bị phạt tù từ 03 năm đến 07 năm.
+
+#### Điều 126. Tội giết người do vượt quá giới hạn phòng vệ chính đáng hoặc do vượt quá mức cần thiết khi bắt giữ người phạm tội
+
+1. Người nào giết người trong trường hợp vượt quá giới hạn phòng vệ chính đáng hoặc trong trường hợp vượt quá mức cần thiết khi bắt giữ người phạm tội, thì bị phạt tù từ 06 tháng đến 03 năm.
+
+2. Giết 02 người trở lên trong trường hợp quy định tại khoản 1 Điều này, thì bị phạt tù từ 03 năm đến 07 năm.
+
+#### Điều 134. Tội cố ý gây thương tích hoặc gây tổn hại cho sức khỏe của người khác
+
+1. Người nào cố ý gây thương tích hoặc gây tổn hại cho sức khỏe của người khác mà tỷ lệ tổn thương cơ thể từ 11% đến 30% hoặc dưới 11% nhưng thuộc một trong các trường hợp sau đây, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm:
+
+a) Dùng vũ khí, vật liệu nổ, hung khí nguy hiểm hoặc thủ đoạn có khả năng gây nguy hại cho nhiều người;
+b) Dùng a-xít nguy hiểm hoặc hóa chất nguy hiểm;
+c) Đối với người dưới 16 tuổi, phụ nữ mà biết là có thai, người già yếu, ốm đau hoặc người khác không có khả năng tự vệ;
+d) Đối với ông, bà, cha, mẹ, thầy giáo, cô giáo của mình, người nuôi dưỡng, chữa bệnh cho mình;
+đ) Có tổ chức;
+e) Lợi dụng chức vụ, quyền hạn;
+g) Trong thời gian đang bị giữ, tạm giữ, tạm giam, đang chấp hành án phạt tù, đang chấp hành biện pháp tư pháp giáo dục tại trường giáo dưỡng hoặc đang chấp hành biện pháp xử lý vi phạm hành chính đưa vào cơ sở giáo dục bắt buộc, đưa vào trường giáo dưỡng hoặc đưa vào cơ sở cai nghiện bắt buộc;
+h) Thuê gây thương tích hoặc gây tổn hại cho sức khỏe của người khác hoặc gây thương tích hoặc gây tổn hại cho sức khỏe của người khác do được thuê;
+i) Có tính chất côn đồ;
+k) Đối với người đang thi hành công vụ hoặc vì lý do công vụ của nạn nhân.
+
+2. Phạm tội gây thương tích hoặc gây tổn hại cho sức khỏe của người khác mà tỷ lệ tổn thương cơ thể từ 31% đến 60%, thì bị phạt tù từ 02 năm đến 06 năm.
+
+3. Phạm tội gây thương tích hoặc gây tổn hại cho sức khỏe của người khác mà tỷ lệ tổn thương cơ thể từ 61% trở lên, thì bị phạt tù từ 05 năm đến 10 năm.
+
+4. Phạm tội gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người trở lên mà tỷ lệ tổn thương cơ thể của mỗi người từ 61% trở lên hoặc dẫn đến chết người, thì bị phạt tù từ 07 năm đến 14 năm.
+
+5. Phạm tội dẫn đến chết 02 người trở lên, thì bị phạt tù từ 12 năm đến 20 năm hoặc tù chung thân.
+
+#### Điều 141. Tội hiếp dâm
+
+1. Người nào dùng vũ lực, đe dọa dùng vũ lực hoặc lợi dụng tình trạng không thể tự vệ được của nạn nhân hoặc thủ đoạn khác giao cấu hoặc thực hiện hành vi quan hệ tình dục khác trái với ý muốn của nạn nhân, thì bị phạt tù từ 02 năm đến 07 năm.
+
+2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 07 năm đến 15 năm:
+
+a) Có tổ chức;
+b) Đối với người mà người phạm tội có trách nhiệm chăm sóc, giáo dục, chữa bệnh;
+c) Nhiều người hiếp dâm một người;
+d) Phạm tội 02 lần trở lên;
+đ) Đối với 02 người trở lên;
+e) Có tính chất loạn luân;
+g) Làm nạn nhân có thai;
+h) Gây thương tích, gây tổn hại cho sức khỏe hoặc gây rối loạn tâm thần và hành vi của nạn nhân mà tỷ lệ tổn thương cơ thể từ 31% đến 60%;
+i) Tái phạm nguy hiểm.
+
+3. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 12 năm đến 20 năm hoặc tù chung thân:
+
+a) Gây thương tích, gây tổn hại cho sức khỏe hoặc gây rối loạn tâm thần và hành vi của nạn nhân mà tỷ lệ tổn thương cơ thể 61% trở lên;
+b) Biết mình bị nhiễm HIV mà vẫn phạm tội;
+c) Làm nạn nhân chết hoặc tự sát.
+
+#### Điều 150. Tội mua bán người
+
+1. Người nào dùng vũ lực, đe dọa dùng vũ lực, lừa gạt hoặc bằng thủ đoạn khác thực hiện một trong các hành vi sau đây, thì bị phạt tù từ 05 năm đến 10 năm:
+
+a) Chuyển giao hoặc tiếp nhận người để giao, nhận tiền, tài sản hoặc lợi ích vật chất khác;
+b) Chuyển giao hoặc tiếp nhận người để bóc lột tình dục, cưỡng bức lao động, lấy bộ phận cơ thể của nạn nhân hoặc vì mục đích vô nhân đạo khác;
+c) Tuyển mộ, vận chuyển, chứa chấp người khác để thực hiện hành vi quy định tại điểm a hoặc điểm b khoản này.
+
+2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 08 năm đến 15 năm:
+
+a) Có tổ chức;
+b) Vì động cơ đê hèn;
+c) Đối với từ 02 đến 05 người;
+d) Đối với người mà mình có trách nhiệm chăm sóc, nuôi dưỡng;
+đ) Đưa nạn nhân ra khỏi biên giới;
+e) Phạm tội 02 lần trở lên;
+g) Để lấy bộ phận cơ thể của nạn nhân.
+
+3. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 12 năm đến 20 năm:
+
+a) Có tính chất chuyên nghiệp;
+b) Đã lấy bộ phận cơ thể của nạn nhân;
+c) Đối với 06 người trở lên;
+d) Gây thương tích, gây tổn hại cho sức khỏe hoặc gây rối loạn tâm thần và hành vi của nạn nhân mà tỷ lệ tổn thương cơ thể 61% trở lên;
+đ) Làm nạn nhân chết hoặc tự sát.
+
+4. Người phạm tội còn có thể bị phạt tiền từ 20.000.000 đồng đến 100.000.000 đồng, phạt quản chế, cấm cư trú từ 01 năm đến 05 năm hoặc tịch thu một phần hoặc toàn bộ tài sản.
