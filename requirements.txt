@@ -1,0 +1,26 @@
+# ============================================================
+# VIETCLAW - Vietnamese Legal RAG Knowledge Base
+# Python dependencies
+# ============================================================
+
+# --- Core utilities ---
+PyYAML>=6.0.1              # YAML config and frontmatter parsing
+jsonschema>=4.22.0         # JSON Schema validation (validate_metadata.py)
+
+# --- Embeddings ---
+openai>=1.35.0             # OpenAI Embeddings API (text-embedding-3-large)
+
+# --- Vector store ---
+chromadb>=0.5.0            # Vector database for chunk storage and retrieval
+
+# --- Export formats ---
+numpy>=1.26.0              # numpy .npz export format
+pandas>=2.2.0              # Parquet export (with pyarrow)
+pyarrow>=16.0.0            # Parquet serialisation backend
+
+# --- Retrieval / reranking (optional, used by retrieval layer) ---
+sentence-transformers>=3.0.0  # Cross-encoder reranker (ms-marco-MiniLM-L-12-v2)
+
+# --- Development / testing (optional) ---
+pytest>=8.2.0
+pytest-cov>=5.0.0
