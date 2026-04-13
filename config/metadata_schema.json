@@ -1,0 +1,137 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "VIETLAW Document Metadata Schema",
+  "description": "Schema cho metadata YAML frontmatter của các văn bản pháp luật Việt Nam",
+  "type": "object",
+  "required": [
+    "tiêu_đề",
+    "số_hiệu",
+    "loại_văn_bản",
+    "cơ_quan_ban_hành",
+    "ngày_ban_hành",
+    "ngày_hiệu_lực",
+    "tình_trạng",
+    "lĩnh_vực"
+  ],
+  "properties": {
+    "tiêu_đề": {
+      "type": "string",
+      "description": "Tên đầy đủ của văn bản pháp luật"
+    },
+    "số_hiệu": {
+      "type": "string",
+      "description": "Số hiệu văn bản (VD: 59/2020/QH14)",
+      "pattern": "^[0-9A-Za-zÀ-ỹ/\\-\\s]+$"
+    },
+    "loại_văn_bản": {
+      "type": "string",
+      "description": "Loại văn bản pháp luật",
+      "enum": [
+        "Hiến pháp",
+        "Bộ luật",
+        "Luật",
+        "Pháp lệnh",
+        "Nghị quyết",
+        "Nghị định",
+        "Quyết định",
+        "Thông tư",
+        "Thông tư liên tịch",
+        "Chỉ thị"
+      ]
+    },
+    "cơ_quan_ban_hành": {
+      "type": "string",
+      "description": "Cơ quan ban hành văn bản",
+      "enum": [
+        "Quốc hội",
+        "Ủy ban Thường vụ Quốc hội",
+        "Chính phủ",
+        "Thủ tướng Chính phủ",
+        "Bộ Tư pháp",
+        "Bộ Tài chính",
+        "Bộ Công an",
+        "Bộ Lao động - Thương binh và Xã hội",
+        "Bộ Công Thương",
+        "Bộ Tài nguyên và Môi trường",
+        "Bộ Xây dựng",
+        "Bộ Thông tin và Truyền thông",
+        "Bộ Kế hoạch và Đầu tư",
+        "Bộ Nội vụ",
+        "Bộ Y tế",
+        "Bộ Giáo dục và Đào tạo",
+        "Bộ Khoa học và Công nghệ",
+        "Bộ Nông nghiệp và Phát triển nông thôn",
+        "Bộ Giao thông vận tải",
+        "Bộ Quốc phòng",
+        "Bộ Ngoại giao",
+        "Bộ Văn hóa Thể thao và Du lịch",
+        "Ngân hàng Nhà nước",
+        "Tòa án nhân dân tối cao",
+        "Viện Kiểm sát nhân dân tối cao"
+      ]
+    },
+    "ngày_ban_hành": {
+      "type": "string",
+      "format": "date",
+      "description": "Ngày ban hành (YYYY-MM-DD)"
+    },
+    "ngày_hiệu_lực": {
+      "type": "string",
+      "format": "date",
+      "description": "Ngày có hiệu lực (YYYY-MM-DD)"
+    },
+    "ngày_hết_hiệu_lực": {
+      "type": ["string", "null"],
+      "format": "date",
+      "description": "Ngày hết hiệu lực (null nếu còn hiệu lực)"
+    },
+    "tình_trạng": {
+      "type": "string",
+      "description": "Tình trạng hiệu lực",
+      "enum": [
+        "Còn hiệu lực",
+        "Hết hiệu lực",
+        "Hết hiệu lực một phần",
+        "Chưa có hiệu lực",
+        "Ngưng hiệu lực"
+      ]
+    },
+    "lĩnh_vực": {
+      "type": "string",
+      "description": "Lĩnh vực điều chỉnh chính"
+    },
+    "người_ký": {
+      "type": "string",
+      "description": "Người ký ban hành văn bản"
+    },
+    "văn_bản_liên_quan": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Danh sách số hiệu các văn bản liên quan"
+    },
+    "văn_bản_thay_thế": {
+      "type": ["string", "null"],
+      "description": "Số hiệu văn bản bị thay thế (nếu có)"
+    },
+    "văn_bản_sửa_đổi": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Danh sách văn bản sửa đổi, bổ sung"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Các tags để phân loại và tìm kiếm"
+    },
+    "tóm_tắt": {
+      "type": "string",
+      "description": "Tóm tắt ngắn gọn nội dung văn bản"
+    }
+  }
+}
