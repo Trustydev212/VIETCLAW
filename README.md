@@ -93,12 +93,12 @@ print(response)
 
 | Loại văn bản | Số lượng | Mô tả |
 |---|---|---|
-| Hiến pháp | 1 | Hiến pháp 2013 |
-| Bộ luật | 6 | Hình sự, Dân sự, Lao động, TTHS, TTDS, Thương mại |
-| Luật chuyên ngành | 15+ | Doanh nghiệp, Đầu tư, Đất đai, Nhà ở, Thuế... |
-| Văn bản mới 2024-2026 | 10+ | Luật mới ban hành và sửa đổi |
-| Nghị định | 5+ | Nghị định hướng dẫn thi hành |
-| Thông tư | 3+ | Thông tư hướng dẫn chi tiết |
+| Hiến pháp | 1 | Hiến pháp 2013 (120 điều đầy đủ) |
+| Bộ luật | 5 | Hình sự, Dân sự, Lao động, TTHS, TTDS |
+| Luật chuyên ngành | 17 | Doanh nghiệp, Đầu tư, Đất đai, Thương mại, Nhà ở, Thuế TNCN/GTGT/TNDN, SHTT, ANM, HNGĐ, BVMT, Giáo dục, Cán bộ CC, PCTN, Khiếu nại, Tố cáo |
+| Văn bản mới 2024-2026 | 6 | BHXH, Căn cước, Công đoàn, GDĐT, KD BĐS, ATGT đường bộ |
+| Nghị định | 3 | NĐ 145/2020 (Lao động), NĐ 01/2021 (ĐKDN), NĐ 100/2019 (Xử phạt GT) |
+| Thông tư | 2 | TT 111/2013 (Thuế TNCN), TT 78/2014 (Thuế TNDN) |
 
 ## Đóng góp
 

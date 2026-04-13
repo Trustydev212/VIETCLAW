@@ -1,137 +1,137 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "VIETCLAW Document Metadata Schema",
-  "description": "Schema cho metadata YAML frontmatter cua cac van ban phap luat Viet Nam",
+  "description": "Schema cho metadata YAML frontmatter của các văn bản pháp luật Việt Nam",
   "type": "object",
   "required": [
-    "ten_van_ban",
-    "so_hieu",
-    "loai_van_ban",
-    "co_quan_ban_hanh",
-    "ngay_ban_hanh",
-    "ngay_hieu_luc",
-    "tinh_trang",
-    "linh_vuc"
+    "tiêu_đề",
+    "số_hiệu",
+    "loại_văn_bản",
+    "cơ_quan_ban_hành",
+    "ngày_ban_hành",
+    "ngày_hiệu_lực",
+    "tình_trạng",
+    "lĩnh_vực"
   ],
   "properties": {
-    "ten_van_ban": {
+    "tiêu_đề": {
       "type": "string",
-      "description": "Ten day du cua van ban phap luat"
+      "description": "Tên đầy đủ của văn bản pháp luật"
     },
-    "so_hieu": {
+    "số_hiệu": {
       "type": "string",
-      "description": "So hieu van ban (VD: 59/2020/QH14)",
-      "pattern": "^[0-9A-Za-z/\\-]+$"
+      "description": "Số hiệu văn bản (VD: 59/2020/QH14)",
+      "pattern": "^[0-9A-Za-zÀ-ỹ/\\-\\s]+$"
     },
-    "loai_van_ban": {
+    "loại_văn_bản": {
       "type": "string",
-      "description": "Loai van ban phap luat",
+      "description": "Loại văn bản pháp luật",
       "enum": [
-        "Hien phap",
-        "Bo luat",
-        "Luat",
-        "Phap lenh",
-        "Nghi quyet",
-        "Nghi dinh",
-        "Quyet dinh",
-        "Thong tu",
-        "Thong tu lien tich",
-        "Chi thi"
+        "Hiến pháp",
+        "Bộ luật",
+        "Luật",
+        "Pháp lệnh",
+        "Nghị quyết",
+        "Nghị định",
+        "Quyết định",
+        "Thông tư",
+        "Thông tư liên tịch",
+        "Chỉ thị"
       ]
     },
-    "co_quan_ban_hanh": {
+    "cơ_quan_ban_hành": {
       "type": "string",
-      "description": "Co quan ban hanh van ban",
+      "description": "Cơ quan ban hành văn bản",
       "enum": [
-        "Quoc hoi",
-        "Uy ban Thuong vu Quoc hoi",
-        "Chinh phu",
-        "Thu tuong Chinh phu",
-        "Bo Tu phap",
-        "Bo Tai chinh",
-        "Bo Cong an",
-        "Bo Lao dong - Thuong binh va Xa hoi",
-        "Bo Cong Thuong",
-        "Bo Tai nguyen va Moi truong",
-        "Bo Xay dung",
-        "Bo Thong tin va Truyen thong",
-        "Bo Ke hoach va Dau tu",
-        "Bo Noi vu",
-        "Bo Y te",
-        "Bo Giao duc va Dao tao",
-        "Bo Khoa hoc va Cong nghe",
-        "Bo Nong nghiep va Phat trien nong thon",
-        "Bo Giao thong van tai",
-        "Bo Quoc phong",
-        "Bo Ngoai giao",
-        "Bo Van hoa The thao va Du lich",
-        "Ngan hang Nha nuoc",
-        "Toa an nhan dan toi cao",
-        "Vien Kiem sat nhan dan toi cao"
+        "Quốc hội",
+        "Ủy ban Thường vụ Quốc hội",
+        "Chính phủ",
+        "Thủ tướng Chính phủ",
+        "Bộ Tư pháp",
+        "Bộ Tài chính",
+        "Bộ Công an",
+        "Bộ Lao động - Thương binh và Xã hội",
+        "Bộ Công Thương",
+        "Bộ Tài nguyên và Môi trường",
+        "Bộ Xây dựng",
+        "Bộ Thông tin và Truyền thông",
+        "Bộ Kế hoạch và Đầu tư",
+        "Bộ Nội vụ",
+        "Bộ Y tế",
+        "Bộ Giáo dục và Đào tạo",
+        "Bộ Khoa học và Công nghệ",
+        "Bộ Nông nghiệp và Phát triển nông thôn",
+        "Bộ Giao thông vận tải",
+        "Bộ Quốc phòng",
+        "Bộ Ngoại giao",
+        "Bộ Văn hóa Thể thao và Du lịch",
+        "Ngân hàng Nhà nước",
+        "Tòa án nhân dân tối cao",
+        "Viện Kiểm sát nhân dân tối cao"
       ]
     },
-    "ngay_ban_hanh": {
+    "ngày_ban_hành": {
       "type": "string",
       "format": "date",
-      "description": "Ngay ban hanh (YYYY-MM-DD)"
+      "description": "Ngày ban hành (YYYY-MM-DD)"
     },
-    "ngay_hieu_luc": {
+    "ngày_hiệu_lực": {
       "type": "string",
       "format": "date",
-      "description": "Ngay co hieu luc (YYYY-MM-DD)"
+      "description": "Ngày có hiệu lực (YYYY-MM-DD)"
     },
-    "ngay_het_hieu_luc": {
+    "ngày_hết_hiệu_lực": {
       "type": ["string", "null"],
       "format": "date",
-      "description": "Ngay het hieu luc (null neu con hieu luc)"
+      "description": "Ngày hết hiệu lực (null nếu còn hiệu lực)"
     },
-    "tinh_trang": {
+    "tình_trạng": {
       "type": "string",
-      "description": "Tinh trang hieu luc",
+      "description": "Tình trạng hiệu lực",
       "enum": [
-        "Con hieu luc",
-        "Het hieu luc",
-        "Het hieu luc mot phan",
-        "Chua co hieu luc",
-        "Ngung hieu luc"
+        "Còn hiệu lực",
+        "Hết hiệu lực",
+        "Hết hiệu lực một phần",
+        "Chưa có hiệu lực",
+        "Ngưng hiệu lực"
       ]
     },
-    "linh_vuc": {
+    "lĩnh_vực": {
       "type": "string",
-      "description": "Linh vuc dieu chinh chinh"
+      "description": "Lĩnh vực điều chỉnh chính"
     },
-    "nguoi_ky": {
+    "người_ký": {
       "type": "string",
-      "description": "Nguoi ky ban hanh van ban"
+      "description": "Người ký ban hành văn bản"
     },
-    "van_ban_lien_quan": {
+    "văn_bản_liên_quan": {
       "type": "array",
       "items": {
         "type": "string"
       },
-      "description": "Danh sach so hieu cac van ban lien quan"
+      "description": "Danh sách số hiệu các văn bản liên quan"
     },
-    "van_ban_thay_the": {
+    "văn_bản_thay_thế": {
       "type": ["string", "null"],
-      "description": "So hieu van ban bi thay the (neu co)"
+      "description": "Số hiệu văn bản bị thay thế (nếu có)"
     },
-    "van_ban_sua_doi": {
+    "văn_bản_sửa_đổi": {
       "type": "array",
       "items": {
         "type": "string"
       },
-      "description": "Danh sach van ban sua doi, bo sung"
+      "description": "Danh sách văn bản sửa đổi, bổ sung"
     },
     "tags": {
       "type": "array",
       "items": {
         "type": "string"
       },
-      "description": "Cac tags de phan loai va tim kiem"
+      "description": "Các tags để phân loại và tìm kiếm"
     },
-    "tom_tat": {
+    "tóm_tắt": {
       "type": "string",
-      "description": "Tom tat ngan gon noi dung van ban"
+      "description": "Tóm tắt ngắn gọn nội dung văn bản"
     }
   }
 }
