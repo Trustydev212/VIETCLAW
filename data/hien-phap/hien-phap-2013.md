@@ -420,3 +420,499 @@ Cơ quan, tổ chức, cá nhân phải thực hành tiết kiệm, chống lãn
 2. Nhà nước khuyến khích mọi hoạt động bảo vệ môi trường, phát triển, sử dụng năng lượng mới, năng lượng tái tạo.
 
 3. Tổ chức, cá nhân gây ô nhiễm môi trường, làm suy kiệt tài nguyên thiên nhiên và suy giảm đa dạng sinh học phải bị xử lý nghiêm và có trách nhiệm khắc phục, bồi thường thiệt hại.
+
+## Chương IV: Bảo vệ Tổ quốc
+
+#### Điều 64
+
+Bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa là sự nghiệp của toàn dân.
+
+Nhà nước củng cố và tăng cường nền quốc phòng toàn dân và an ninh nhân dân mà nòng cốt là lực lượng vũ trang nhân dân; phát huy sức mạnh tổng hợp của đất nước để bảo vệ vững chắc Tổ quốc, góp phần bảo vệ hòa bình ở khu vực và trên thế giới.
+
+Cơ quan, tổ chức, công dân phải thực hiện đầy đủ nhiệm vụ quốc phòng và an ninh.
+
+#### Điều 65
+
+Lực lượng vũ trang nhân dân tuyệt đối trung thành với Tổ quốc, Nhân dân, với Đảng và Nhà nước, có nhiệm vụ bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc, an ninh quốc gia và trật tự, an toàn xã hội; bảo vệ Nhân dân, Đảng, Nhà nước và chế độ xã hội chủ nghĩa; cùng toàn dân xây dựng đất nước và thực hiện nghĩa vụ quốc tế.
+
+#### Điều 66
+
+Nhà nước xây dựng Quân đội nhân dân cách mạng, chính quy, tinh nhuệ, từng bước hiện đại, có lực lượng thường trực hợp lý, lực lượng dự bị động viên hùng hậu, lực lượng dân quân tự vệ vững mạnh và rộng khắp, làm nòng cốt trong thực hiện nhiệm vụ quốc phòng.
+
+#### Điều 67
+
+Nhà nước xây dựng Công an nhân dân cách mạng, chính quy, tinh nhuệ, từng bước hiện đại, làm nòng cốt trong thực hiện nhiệm vụ bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm.
+
+#### Điều 68
+
+Nhà nước phát huy tinh thần yêu nước và chủ nghĩa anh hùng cách mạng của Nhân dân, giáo dục quốc phòng và an ninh cho toàn dân; xây dựng công nghiệp quốc phòng, an ninh bảo đảm trang bị cho lực lượng vũ trang, kết hợp quốc phòng, an ninh với kinh tế, kinh tế với quốc phòng, an ninh; thực hiện chính sách hậu phương quân đội; bảo đảm đời sống vật chất, tinh thần của cán bộ, chiến sĩ, công nhân, viên chức quốc phòng, an ninh phù hợp với tính chất hoạt động; xây dựng lực lượng vũ trang nhân dân hùng mạnh, không ngừng tăng cường khả năng bảo vệ Tổ quốc.
+
+## Chương V: Quốc hội
+
+#### Điều 69
+
+Quốc hội là cơ quan đại biểu cao nhất của Nhân dân, cơ quan quyền lực nhà nước cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
+Quốc hội thực hiện quyền lập hiến, quyền lập pháp, quyết định các vấn đề quan trọng của đất nước và giám sát tối cao đối với hoạt động của Nhà nước.
+
+#### Điều 70
+
+Quốc hội có những nhiệm vụ và quyền hạn sau đây:
+
+1. Làm Hiến pháp và sửa đổi Hiến pháp; làm luật và sửa đổi luật;
+
+2. Thực hiện quyền giám sát tối cao việc tuân theo Hiến pháp, luật và nghị quyết của Quốc hội; xét báo cáo công tác của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập;
+
+3. Quyết định mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội của đất nước;
+
+4. Quyết định chính sách cơ bản về tài chính, tiền tệ quốc gia; quy định, sửa đổi hoặc bãi bỏ các thứ thuế; quyết định phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương; quyết định mức giới hạn an toàn nợ quốc gia, nợ công, nợ chính phủ; quyết định dự toán ngân sách nhà nước và phân bổ ngân sách trung ương, phê chuẩn quyết toán ngân sách nhà nước;
+
+5. Quyết định chính sách dân tộc, chính sách tôn giáo của Nhà nước;
+
+6. Quy định tổ chức và hoạt động của Quốc hội, Chủ tịch nước, Chính phủ, Tòa án nhân dân, Viện kiểm sát nhân dân, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước, chính quyền địa phương và cơ quan khác do Quốc hội thành lập;
+
+7. Bầu, miễn nhiệm, bãi nhiệm Chủ tịch nước, Phó Chủ tịch nước, Chủ tịch Quốc hội, Phó Chủ tịch Quốc hội, Ủy viên Ủy ban thường vụ Quốc hội, Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội, Thủ tướng Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Chủ tịch Hội đồng bầu cử quốc gia, Tổng Kiểm toán nhà nước, người đứng đầu cơ quan khác do Quốc hội thành lập; phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ, Thẩm phán Tòa án nhân dân tối cao; phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia;
+
+8. Bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn;
+
+9. Quyết định thành lập, bãi bỏ bộ, cơ quan ngang bộ của Chính phủ; thành lập, giải thể, nhập, chia, điều chỉnh địa giới hành chính tỉnh, thành phố trực thuộc trung ương, đơn vị hành chính - kinh tế đặc biệt; thành lập, bãi bỏ cơ quan khác theo quy định của Hiến pháp và luật;
+
+10. Bãi bỏ văn bản của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trái với Hiến pháp, luật, nghị quyết của Quốc hội;
+
+11. Quyết định đại xá;
+
+12. Quy định hàm, cấp trong lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm, cấp nhà nước khác; quy định huân chương, huy chương và danh hiệu vinh dự nhà nước;
+
+13. Quyết định vấn đề chiến tranh và hòa bình; quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng và an ninh quốc gia;
+
+14. Quyết định chính sách cơ bản về đối ngoại; phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của điều ước quốc tế liên quan đến chiến tranh, hòa bình, chủ quyền quốc gia, tư cách thành viên của Cộng hòa xã hội chủ nghĩa Việt Nam tại các tổ chức quốc tế và khu vực quan trọng, điều ước quốc tế về quyền con người, quyền và nghĩa vụ cơ bản của công dân và điều ước quốc tế khác trái với luật, nghị quyết của Quốc hội;
+
+15. Quyết định trưng cầu ý dân.
+
+#### Điều 71
+
+1. Nhiệm kỳ của mỗi khóa Quốc hội là năm năm.
+
+2. Sáu mươi ngày trước khi Quốc hội hết nhiệm kỳ, Quốc hội khóa mới phải được bầu xong.
+
+3. Trong trường hợp đặc biệt, nếu được ít nhất hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành thì Quốc hội quyết định rút ngắn hoặc kéo dài nhiệm kỳ của mình theo đề nghị của Ủy ban thường vụ Quốc hội. Việc kéo dài nhiệm kỳ của một khóa Quốc hội không được quá mười hai tháng, trừ trường hợp có chiến tranh.
+
+#### Điều 72
+
+Chủ tịch Quốc hội chủ tọa các phiên họp của Quốc hội; ký chứng thực Hiến pháp, luật, nghị quyết của Quốc hội; lãnh đạo công tác của Ủy ban thường vụ Quốc hội; tổ chức thực hiện quan hệ đối ngoại của Quốc hội; giữ quan hệ với các đại biểu Quốc hội.
+
+#### Điều 73
+
+1. Ủy ban thường vụ Quốc hội là cơ quan thường trực của Quốc hội.
+
+2. Ủy ban thường vụ Quốc hội gồm Chủ tịch Quốc hội, các Phó Chủ tịch Quốc hội và các Ủy viên.
+
+3. Số thành viên Ủy ban thường vụ Quốc hội do Quốc hội quyết định. Thành viên Ủy ban thường vụ Quốc hội không thể đồng thời là thành viên Chính phủ.
+
+4. Ủy ban thường vụ Quốc hội của mỗi khóa Quốc hội thực hiện nhiệm vụ, quyền hạn của mình cho đến khi Quốc hội khóa mới bầu ra Ủy ban thường vụ Quốc hội mới.
+
+#### Điều 74
+
+Ủy ban thường vụ Quốc hội có những nhiệm vụ và quyền hạn sau đây:
+
+1. Tổ chức việc chuẩn bị, triệu tập và chủ trì kỳ họp Quốc hội;
+
+2. Ra pháp lệnh về những vấn đề được Quốc hội giao; giải thích Hiến pháp, luật, pháp lệnh;
+
+3. Giám sát việc thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội; giám sát hoạt động của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập;
+
+4. Đình chỉ việc thi hành văn bản của Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trái với Hiến pháp, luật, nghị quyết của Quốc hội và trình Quốc hội quyết định việc bãi bỏ văn bản đó tại kỳ họp gần nhất; bãi bỏ văn bản của Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trái với pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội;
+
+5. Chỉ đạo, điều hòa, phối hợp hoạt động của Hội đồng dân tộc và các Ủy ban của Quốc hội; hướng dẫn và bảo đảm điều kiện hoạt động của đại biểu Quốc hội;
+
+6. Đề nghị Quốc hội bầu, miễn nhiệm, bãi nhiệm Chủ tịch nước, Chủ tịch Quốc hội, Phó Chủ tịch Quốc hội, Ủy viên Ủy ban thường vụ Quốc hội, Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội, Chủ tịch Hội đồng bầu cử quốc gia, Tổng Kiểm toán nhà nước;
+
+7. Giám sát và hướng dẫn hoạt động của Hội đồng nhân dân; bãi bỏ nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến pháp, luật và văn bản của cơ quan nhà nước cấp trên; giải tán Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trong trường hợp Hội đồng nhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của Nhân dân;
+
+8. Quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương;
+
+9. Quyết định việc tuyên bố tình trạng chiến tranh trong trường hợp Quốc hội không thể họp được và báo cáo Quốc hội quyết định tại kỳ họp gần nhất;
+
+10. Quyết định tổng động viên hoặc động viên cục bộ; ban bố, bãi bỏ tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương;
+
+11. Thực hiện quan hệ đối ngoại của Quốc hội;
+
+12. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm đại sứ đặc mệnh toàn quyền của Cộng hòa xã hội chủ nghĩa Việt Nam;
+
+13. Tổ chức trưng cầu ý dân theo quyết định của Quốc hội.
+
+#### Điều 75
+
+1. Hội đồng dân tộc gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên. Chủ tịch Hội đồng dân tộc do Quốc hội bầu; các Phó Chủ tịch và các Ủy viên Hội đồng dân tộc do Ủy ban thường vụ Quốc hội phê chuẩn.
+
+2. Hội đồng dân tộc nghiên cứu và kiến nghị với Quốc hội về công tác dân tộc; thực hiện quyền giám sát việc thi hành chính sách dân tộc, chương trình, kế hoạch phát triển kinh tế - xã hội miền núi và vùng đồng bào dân tộc thiểu số.
+
+3. Chủ tịch Hội đồng dân tộc được mời tham dự phiên họp của Chính phủ bàn về việc thực hiện chính sách dân tộc. Khi ban hành quy định thực hiện chính sách dân tộc, Chính phủ phải lấy ý kiến của Hội đồng dân tộc.
+
+4. Hội đồng dân tộc có những nhiệm vụ, quyền hạn khác như các Ủy ban của Quốc hội quy định tại khoản 2 Điều 76.
+
+#### Điều 76
+
+1. Ủy ban của Quốc hội gồm Chủ nhiệm, các Phó Chủ nhiệm và các Ủy viên. Chủ nhiệm Ủy ban do Quốc hội bầu; các Phó Chủ nhiệm và các Ủy viên Ủy ban do Ủy ban thường vụ Quốc hội phê chuẩn.
+
+2. Ủy ban của Quốc hội thẩm tra dự án luật, kiến nghị về luật, dự án khác và báo cáo được Quốc hội hoặc Ủy ban thường vụ Quốc hội giao; thực hiện quyền giám sát trong phạm vi nhiệm vụ, quyền hạn do luật định; kiến nghị những vấn đề thuộc phạm vi hoạt động của Ủy ban.
+
+3. Việc thành lập, giải thể Ủy ban của Quốc hội do Quốc hội quyết định.
+
+#### Điều 77
+
+1. Hội đồng dân tộc, các Ủy ban của Quốc hội có quyền yêu cầu thành viên Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước và cá nhân hữu quan báo cáo, giải trình hoặc cung cấp tài liệu về những vấn đề cần thiết. Người được yêu cầu có trách nhiệm đáp ứng yêu cầu đó.
+
+2. Các cơ quan nhà nước có trách nhiệm nghiên cứu và trả lời những kiến nghị của Hội đồng dân tộc và các Ủy ban của Quốc hội.
+
+#### Điều 78
+
+Quốc hội họp công khai. Trong trường hợp cần thiết, theo đề nghị của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Thủ tướng Chính phủ hoặc của ít nhất một phần ba tổng số đại biểu Quốc hội, Quốc hội quyết định họp kín.
+
+Quốc hội họp mỗi năm hai kỳ. Trường hợp Chủ tịch nước, Ủy ban thường vụ Quốc hội, Thủ tướng Chính phủ hoặc ít nhất một phần ba tổng số đại biểu Quốc hội yêu cầu thì Quốc hội họp bất thường. Ủy ban thường vụ Quốc hội triệu tập kỳ họp Quốc hội.
+
+#### Điều 79
+
+1. Chủ tịch nước, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước, Mặt trận Tổ quốc Việt Nam và các cơ quan trung ương của tổ chức thành viên của Mặt trận có quyền trình dự án luật trước Quốc hội.
+
+2. Đại biểu Quốc hội có quyền trình kiến nghị về luật và dự án luật trước Quốc hội.
+
+#### Điều 80
+
+1. Đại biểu Quốc hội đại diện cho ý chí, nguyện vọng của Nhân dân ở đơn vị bầu cử ra mình và của Nhân dân cả nước.
+
+2. Đại biểu Quốc hội liên hệ chặt chẽ với cử tri, chịu sự giám sát của cử tri; thu thập và phản ánh trung thực ý kiến, nguyện vọng của cử tri với Quốc hội, các cơ quan, tổ chức hữu quan; thực hiện chế độ tiếp xúc và báo cáo với cử tri về hoạt động của đại biểu và của Quốc hội; trả lời yêu cầu và kiến nghị của cử tri; theo dõi, đôn đốc việc giải quyết khiếu nại, tố cáo và hướng dẫn, giúp đỡ việc thực hiện quyền khiếu nại, tố cáo.
+
+3. Đại biểu Quốc hội phổ biến và vận động Nhân dân thực hiện Hiến pháp và pháp luật.
+
+#### Điều 81
+
+Đại biểu Quốc hội có quyền chất vấn Chủ tịch nước, Chủ tịch Quốc hội, Thủ tướng Chính phủ, Bộ trưởng và các thành viên khác của Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước.
+
+Người bị chất vấn phải trả lời trước Quốc hội tại kỳ họp hoặc tại phiên họp Ủy ban thường vụ Quốc hội trong thời gian giữa hai kỳ họp Quốc hội; trong trường hợp cần thiết, Quốc hội, Ủy ban thường vụ Quốc hội cho trả lời bằng văn bản.
+
+#### Điều 82
+
+1. Đại biểu Quốc hội có quyền bất khả xâm phạm về thân thể, được bảo đảm các điều kiện cần thiết để hoạt động đại biểu.
+
+2. Không được bắt, giam, giữ, khởi tố đại biểu Quốc hội nếu không có sự đồng ý của Quốc hội hoặc trong thời gian Quốc hội không họp, không có sự đồng ý của Ủy ban thường vụ Quốc hội; trong trường hợp đại biểu Quốc hội phạm tội quả tang mà bị tạm giữ thì cơ quan tạm giữ phải lập tức báo cáo để Quốc hội hoặc Ủy ban thường vụ Quốc hội xem xét, quyết định.
+
+#### Điều 83
+
+1. Đại biểu Quốc hội có trách nhiệm thực hiện đầy đủ nhiệm vụ đại biểu, có quyền tham gia làm thành viên của Hội đồng dân tộc hoặc Ủy ban của Quốc hội.
+
+2. Ủy ban thường vụ Quốc hội, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang bộ và các cơ quan khác của Nhà nước có trách nhiệm tạo điều kiện để đại biểu Quốc hội thực hiện nhiệm vụ đại biểu.
+
+#### Điều 84
+
+1. Quốc hội thành lập Hội đồng bầu cử quốc gia.
+
+2. Hội đồng bầu cử quốc gia có nhiệm vụ tổ chức bầu cử đại biểu Quốc hội; chỉ đạo và hướng dẫn công tác bầu cử đại biểu Hội đồng nhân dân các cấp.
+
+3. Hội đồng bầu cử quốc gia gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên.
+
+4. Tổ chức cụ thể, nhiệm vụ, quyền hạn của Hội đồng bầu cử quốc gia và số lượng thành viên Hội đồng bầu cử quốc gia do luật định.
+
+#### Điều 85
+
+Quốc hội thành lập Kiểm toán nhà nước là cơ quan do Quốc hội thành lập, hoạt động độc lập và chỉ tuân theo pháp luật, thực hiện kiểm toán việc quản lý, sử dụng tài chính, tài sản công.
+
+Tổng Kiểm toán nhà nước là người đứng đầu Kiểm toán nhà nước, do Quốc hội bầu. Nhiệm kỳ của Tổng Kiểm toán nhà nước do luật định.
+
+Tổng Kiểm toán nhà nước chịu trách nhiệm và báo cáo kết quả kiểm toán, báo cáo công tác trước Quốc hội; trong thời gian Quốc hội không họp, chịu trách nhiệm và báo cáo trước Ủy ban thường vụ Quốc hội.
+
+## Chương VI: Chủ tịch nước
+
+#### Điều 86
+
+Chủ tịch nước là người đứng đầu Nhà nước, thay mặt nước Cộng hòa xã hội chủ nghĩa Việt Nam về đối nội và đối ngoại.
+
+#### Điều 87
+
+Chủ tịch nước do Quốc hội bầu trong số đại biểu Quốc hội.
+
+Chủ tịch nước chịu trách nhiệm và báo cáo công tác trước Quốc hội.
+
+Nhiệm kỳ của Chủ tịch nước theo nhiệm kỳ của Quốc hội. Khi Quốc hội hết nhiệm kỳ, Chủ tịch nước tiếp tục làm nhiệm vụ cho đến khi Quốc hội khóa mới bầu ra Chủ tịch nước.
+
+#### Điều 88
+
+Chủ tịch nước có những nhiệm vụ và quyền hạn sau đây:
+
+1. Công bố Hiến pháp, luật, pháp lệnh; đề nghị Ủy ban thường vụ Quốc hội xem xét lại pháp lệnh trong thời hạn mười ngày, kể từ ngày pháp lệnh được thông qua, nếu pháp lệnh đó vẫn được Ủy ban thường vụ Quốc hội biểu quyết tán thành mà Chủ tịch nước vẫn không nhất trí thì Chủ tịch nước trình Quốc hội quyết định tại kỳ họp gần nhất;
+
+2. Đề nghị Quốc hội bầu, miễn nhiệm, bãi nhiệm Phó Chủ tịch nước, Thủ tướng Chính phủ; căn cứ vào nghị quyết của Quốc hội, bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ;
+
+3. Đề nghị Quốc hội bầu, miễn nhiệm, bãi nhiệm Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao; căn cứ vào nghị quyết của Quốc hội, bổ nhiệm, miễn nhiệm, cách chức Thẩm phán Tòa án nhân dân tối cao; bổ nhiệm, miễn nhiệm, cách chức Phó Chánh án Tòa án nhân dân tối cao, Thẩm phán các Tòa án khác, Phó Viện trưởng, Kiểm sát viên Viện kiểm sát nhân dân tối cao; quyết định đặc xá; căn cứ vào nghị quyết của Quốc hội, công bố quyết định đại xá;
+
+4. Quyết định tặng thưởng huân chương, huy chương, các giải thưởng nhà nước, danh hiệu vinh dự nhà nước; quyết định cho nhập quốc tịch, thôi quốc tịch, trở lại quốc tịch hoặc tước quốc tịch Việt Nam;
+
+5. Thống lĩnh lực lượng vũ trang nhân dân, giữ chức Chủ tịch Hội đồng quốc phòng và an ninh, quyết định phong, thăng, giáng, tước quân hàm cấp tướng, chuẩn đô đốc, phó đô đốc, đô đốc hải quân; bổ nhiệm, miễn nhiệm, cách chức Tổng tham mưu trưởng, Chủ nhiệm Tổng cục chính trị Quân đội nhân dân Việt Nam; căn cứ vào nghị quyết của Quốc hội hoặc của Ủy ban thường vụ Quốc hội, công bố, bãi bỏ quyết định tuyên bố tình trạng chiến tranh; căn cứ vào nghị quyết của Ủy ban thường vụ Quốc hội, ra lệnh tổng động viên hoặc động viên cục bộ, công bố, bãi bỏ tình trạng khẩn cấp; trong trường hợp Ủy ban thường vụ Quốc hội không thể họp được, công bố, bãi bỏ tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương;
+
+6. Tiếp nhận đại sứ đặc mệnh toàn quyền của nước ngoài; căn cứ vào nghị quyết của Ủy ban thường vụ Quốc hội, bổ nhiệm, miễn nhiệm; quyết định cử, triệu hồi đại sứ đặc mệnh toàn quyền của Cộng hòa xã hội chủ nghĩa Việt Nam; phong hàm, cấp đại sứ; quyết định đàm phán, ký điều ước quốc tế nhân danh Nhà nước; trình Quốc hội phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực điều ước quốc tế quy định tại khoản 14 Điều 70; quyết định phê chuẩn, gia nhập hoặc chấm dứt hiệu lực điều ước quốc tế khác nhân danh Nhà nước.
+
+#### Điều 89
+
+1. Hội đồng quốc phòng và an ninh gồm Chủ tịch, Phó Chủ tịch và các Ủy viên. Danh sách thành viên Hội đồng quốc phòng và an ninh do Chủ tịch nước trình Quốc hội phê chuẩn.
+
+2. Hội đồng quốc phòng và an ninh trình Quốc hội quyết định tình trạng chiến tranh, trường hợp Quốc hội không thể họp được thì trình Ủy ban thường vụ Quốc hội quyết định; động viên mọi lực lượng và khả năng của đất nước để bảo vệ Tổ quốc; thực hiện những nhiệm vụ, quyền hạn đặc biệt do Quốc hội giao trong trường hợp có chiến tranh; quyết định việc lực lượng vũ trang nhân dân tham gia hoạt động góp phần bảo vệ hòa bình ở khu vực và trên thế giới.
+
+#### Điều 90
+
+Chủ tịch nước có quyền tham dự phiên họp của Ủy ban thường vụ Quốc hội, phiên họp của Chính phủ.
+
+Chủ tịch nước có quyền yêu cầu Chính phủ họp bàn về vấn đề mà Chủ tịch nước xét thấy cần thiết để thực hiện nhiệm vụ, quyền hạn của Chủ tịch nước.
+
+#### Điều 91
+
+Chủ tịch nước ban hành lệnh, quyết định để thực hiện nhiệm vụ, quyền hạn của mình.
+
+#### Điều 92
+
+Phó Chủ tịch nước do Quốc hội bầu trong số đại biểu Quốc hội.
+
+Phó Chủ tịch nước giúp Chủ tịch nước thực hiện nhiệm vụ và có thể được Chủ tịch nước ủy nhiệm thay Chủ tịch nước thực hiện một số nhiệm vụ.
+
+#### Điều 93
+
+Khi Chủ tịch nước không làm việc được trong thời gian dài thì Phó Chủ tịch nước giữ quyền Chủ tịch nước. Trong trường hợp khuyết Chủ tịch nước thì Phó Chủ tịch nước giữ quyền Chủ tịch nước cho đến khi Quốc hội bầu ra Chủ tịch nước mới.
+
+## Chương VII: Chính phủ
+
+#### Điều 94
+
+Chính phủ là cơ quan hành chính nhà nước cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam, thực hiện quyền hành pháp, là cơ quan chấp hành của Quốc hội.
+
+Chính phủ chịu trách nhiệm trước Quốc hội và báo cáo công tác trước Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước.
+
+#### Điều 95
+
+1. Chính phủ gồm Thủ tướng Chính phủ, các Phó Thủ tướng Chính phủ, các Bộ trưởng và Thủ trưởng cơ quan ngang bộ.
+
+2. Cơ cấu, số lượng thành viên Chính phủ do Quốc hội quyết định.
+
+3. Chính phủ làm việc theo chế độ tập thể, quyết định theo đa số.
+
+#### Điều 96
+
+Chính phủ có những nhiệm vụ và quyền hạn sau đây:
+
+1. Tổ chức thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước;
+
+2. Đề xuất, xây dựng chính sách trình Quốc hội, Ủy ban thường vụ Quốc hội quyết định hoặc quyết định theo thẩm quyền để thực hiện nhiệm vụ, quyền hạn quy định tại Điều này; trình dự án luật, dự án ngân sách nhà nước và các dự án khác trước Quốc hội; trình dự án pháp lệnh trước Ủy ban thường vụ Quốc hội;
+
+3. Thống nhất quản lý về kinh tế, văn hóa, xã hội, giáo dục, y tế, khoa học, công nghệ, môi trường, thông tin, truyền thông, đối ngoại, quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội; thi hành lệnh tổng động viên hoặc động viên cục bộ, lệnh ban bố tình trạng khẩn cấp và các biện pháp cần thiết khác để bảo vệ Tổ quốc, bảo đảm tính mạng, tài sản của Nhân dân;
+
+4. Trình Quốc hội quyết định thành lập, bãi bỏ bộ, cơ quan ngang bộ; thành lập, giải thể, nhập, chia, điều chỉnh địa giới hành chính tỉnh, thành phố trực thuộc trung ương, đơn vị hành chính - kinh tế đặc biệt; trình Ủy ban thường vụ Quốc hội quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương;
+
+5. Thống nhất quản lý nền hành chính quốc gia; thực hiện quản lý về cán bộ, công chức, viên chức và công vụ trong các cơ quan nhà nước; tổ chức công tác thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo, phòng, chống quan liêu, tham nhũng trong bộ máy nhà nước; lãnh đạo công tác của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp; hướng dẫn, kiểm tra Hội đồng nhân dân trong việc thực hiện văn bản của cơ quan nhà nước cấp trên; tạo điều kiện để Hội đồng nhân dân thực hiện nhiệm vụ, quyền hạn do luật định;
+
+6. Bảo vệ quyền và lợi ích của Nhà nước và xã hội, quyền con người, quyền công dân; bảo đảm trật tự, an toàn xã hội;
+
+7. Tổ chức đàm phán, ký điều ước quốc tế nhân danh Chính phủ; quyết định việc ký, gia nhập, phê duyệt hoặc chấm dứt hiệu lực điều ước quốc tế nhân danh Chính phủ, trừ điều ước quốc tế trình Quốc hội phê chuẩn quy định tại khoản 14 Điều 70; bảo vệ lợi ích của Nhà nước, lợi ích chính đáng của tổ chức và công dân Việt Nam ở nước ngoài;
+
+8. Phối hợp với Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và cơ quan trung ương của tổ chức chính trị - xã hội trong việc thực hiện nhiệm vụ, quyền hạn của mình.
+
+#### Điều 97
+
+Nhiệm kỳ của Chính phủ theo nhiệm kỳ của Quốc hội. Khi Quốc hội hết nhiệm kỳ, Chính phủ tiếp tục làm nhiệm vụ cho đến khi Quốc hội khóa mới thành lập Chính phủ mới.
+
+#### Điều 98
+
+Thủ tướng Chính phủ do Quốc hội bầu trong số đại biểu Quốc hội.
+
+Thủ tướng Chính phủ có những nhiệm vụ và quyền hạn sau đây:
+
+1. Lãnh đạo công tác của Chính phủ; lãnh đạo việc xây dựng chính sách và tổ chức thi hành pháp luật;
+
+2. Lãnh đạo và chịu trách nhiệm về hoạt động của hệ thống hành chính nhà nước từ trung ương đến địa phương, bảo đảm tính thống nhất và thông suốt của nền hành chính quốc gia;
+
+3. Trình Quốc hội phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ; bổ nhiệm, miễn nhiệm, cách chức Thứ trưởng, chức vụ tương đương thuộc bộ, cơ quan ngang bộ; phê chuẩn việc bầu, miễn nhiệm và quyết định điều động, cách chức Chủ tịch, Phó Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương;
+
+4. Đình chỉ việc thi hành hoặc bãi bỏ văn bản của Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến pháp, luật và văn bản của cơ quan nhà nước cấp trên; đình chỉ việc thi hành nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến pháp, luật và văn bản của cơ quan nhà nước cấp trên, đồng thời đề nghị Ủy ban thường vụ Quốc hội bãi bỏ;
+
+5. Quyết định và chỉ đạo việc đàm phán, chỉ đạo việc ký, gia nhập điều ước quốc tế thuộc nhiệm vụ, quyền hạn của Chính phủ; tổ chức thực hiện điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+
+#### Điều 99
+
+Bộ trưởng, Thủ trưởng cơ quan ngang bộ có những nhiệm vụ và quyền hạn sau đây:
+
+1. Thực hiện chức năng quản lý nhà nước đối với ngành, lĩnh vực được phân công trong phạm vi cả nước hoặc quản lý nhà nước về dịch vụ công thuộc ngành, lĩnh vực được phân công;
+
+2. Tổ chức thi hành và theo dõi việc thi hành pháp luật liên quan đến ngành, lĩnh vực trong phạm vi toàn quốc;
+
+3. Trình dự án luật, dự án pháp lệnh và các dự án, đề án khác trước Chính phủ; ban hành thông tư, quyết định và các văn bản khác về quản lý ngành, lĩnh vực được phân công;
+
+4. Chịu trách nhiệm trước Thủ tướng Chính phủ và trước Quốc hội về ngành, lĩnh vực được phân công; báo cáo công tác trước Chính phủ, Thủ tướng Chính phủ, trình bày và trả lời chất vấn trước Quốc hội.
+
+#### Điều 100
+
+Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang bộ ban hành văn bản pháp luật để thực hiện nhiệm vụ, quyền hạn của mình, kiểm tra việc thi hành các văn bản đó và xử lý các văn bản trái pháp luật theo quy định của luật.
+
+#### Điều 101
+
+Thủ tướng Chính phủ chịu trách nhiệm trước Quốc hội về hoạt động của Chính phủ và những nhiệm vụ được giao; báo cáo công tác của Chính phủ, Thủ tướng Chính phủ trước Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước.
+
+## Chương VIII: Tòa án nhân dân, Viện kiểm sát nhân dân
+
+#### Điều 102
+
+1. Tòa án nhân dân là cơ quan xét xử của nước Cộng hòa xã hội chủ nghĩa Việt Nam, thực hiện quyền tư pháp.
+
+2. Tòa án nhân dân gồm Tòa án nhân dân tối cao và các Tòa án khác do luật định.
+
+3. Tòa án nhân dân có nhiệm vụ bảo vệ công lý, bảo vệ quyền con người, quyền công dân, bảo vệ chế độ xã hội chủ nghĩa, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.
+
+#### Điều 103
+
+1. Việc xét xử sơ thẩm của Tòa án nhân dân có Hội thẩm tham gia, trừ trường hợp xét xử theo thủ tục rút gọn.
+
+2. Thẩm phán, Hội thẩm xét xử độc lập và chỉ tuân theo pháp luật; nghiêm cấm cơ quan, tổ chức, cá nhân can thiệp vào việc xét xử của Thẩm phán, Hội thẩm.
+
+3. Tòa án nhân dân xét xử công khai. Trong trường hợp đặc biệt cần giữ bí mật nhà nước, thuần phong, mỹ tục của dân tộc, bảo vệ người chưa thành niên hoặc giữ bí mật đời tư theo yêu cầu chính đáng của đương sự, Tòa án nhân dân có thể xét xử kín.
+
+4. Tòa án nhân dân xét xử tập thể và quyết định theo đa số, trừ trường hợp xét xử theo thủ tục rút gọn.
+
+5. Nguyên tắc tranh tụng trong xét xử được bảo đảm.
+
+6. Chế độ xét xử sơ thẩm, phúc thẩm được bảo đảm.
+
+7. Quyền bào chữa của bị can, bị cáo, quyền bảo vệ lợi ích hợp pháp của đương sự được bảo đảm.
+
+#### Điều 104
+
+1. Tòa án nhân dân tối cao là cơ quan xét xử cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
+2. Tòa án nhân dân tối cao giám đốc việc xét xử của các Tòa án khác, trừ trường hợp do luật định.
+
+3. Tòa án nhân dân tối cao thực hiện việc tổng kết thực tiễn xét xử, bảo đảm áp dụng thống nhất pháp luật trong xét xử.
+
+#### Điều 105
+
+1. Nhiệm kỳ của Chánh án Tòa án nhân dân tối cao theo nhiệm kỳ của Quốc hội. Việc bổ nhiệm, miễn nhiệm, cách chức và nhiệm kỳ của Chánh án Tòa án khác do luật định.
+
+2. Chánh án Tòa án nhân dân tối cao chịu trách nhiệm và báo cáo công tác trước Quốc hội; trong thời gian Quốc hội không họp, chịu trách nhiệm và báo cáo công tác trước Ủy ban thường vụ Quốc hội, Chủ tịch nước. Chế độ báo cáo công tác của Chánh án các Tòa án khác do luật định.
+
+#### Điều 106
+
+Bản án, quyết định của Tòa án nhân dân có hiệu lực pháp luật phải được cơ quan, tổ chức, cá nhân tôn trọng; cơ quan, tổ chức, cá nhân hữu quan phải nghiêm chỉnh chấp hành.
+
+#### Điều 107
+
+1. Viện kiểm sát nhân dân thực hành quyền công tố, kiểm sát hoạt động tư pháp.
+
+2. Viện kiểm sát nhân dân gồm Viện kiểm sát nhân dân tối cao và các Viện kiểm sát khác do luật định.
+
+3. Viện kiểm sát nhân dân có nhiệm vụ bảo vệ pháp luật, bảo vệ quyền con người, quyền công dân, bảo vệ chế độ xã hội chủ nghĩa, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân, góp phần bảo đảm pháp luật được chấp hành nghiêm chỉnh và thống nhất.
+
+#### Điều 108
+
+1. Nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân tối cao theo nhiệm kỳ của Quốc hội. Việc bổ nhiệm, miễn nhiệm, cách chức và nhiệm kỳ của Viện trưởng Viện kiểm sát khác do luật định.
+
+2. Viện trưởng Viện kiểm sát nhân dân tối cao chịu trách nhiệm và báo cáo công tác trước Quốc hội; trong thời gian Quốc hội không họp, chịu trách nhiệm và báo cáo công tác trước Ủy ban thường vụ Quốc hội, Chủ tịch nước. Chế độ báo cáo công tác của Viện trưởng Viện kiểm sát khác do luật định.
+
+#### Điều 109
+
+1. Kiểm sát viên tuân theo pháp luật và chịu sự chỉ đạo của Viện trưởng Viện kiểm sát nhân dân.
+
+2. Khi thực hành quyền công tố và kiểm sát hoạt động tư pháp, Kiểm sát viên tuân theo pháp luật và chịu sự chỉ đạo của Viện trưởng Viện kiểm sát nhân dân. Viện trưởng Viện kiểm sát nhân dân cấp dưới chịu sự lãnh đạo của Viện trưởng Viện kiểm sát nhân dân cấp trên. Viện trưởng các Viện kiểm sát cấp dưới chịu sự lãnh đạo thống nhất của Viện trưởng Viện kiểm sát nhân dân tối cao.
+
+## Chương IX: Chính quyền địa phương
+
+#### Điều 110
+
+1. Các đơn vị hành chính của nước Cộng hòa xã hội chủ nghĩa Việt Nam được phân định như sau:
+
+Nước chia thành tỉnh, thành phố trực thuộc trung ương;
+
+Tỉnh chia thành huyện, thị xã và thành phố thuộc tỉnh; thành phố trực thuộc trung ương chia thành quận, huyện, thị xã và đơn vị hành chính tương đương;
+
+Huyện chia thành xã, thị trấn; thị xã và thành phố thuộc tỉnh chia thành phường và xã; quận chia thành phường.
+
+Đơn vị hành chính - kinh tế đặc biệt do Quốc hội thành lập.
+
+2. Việc thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính phải lấy ý kiến Nhân dân địa phương và theo trình tự, thủ tục do luật định.
+
+#### Điều 111
+
+1. Chính quyền địa phương được tổ chức ở các đơn vị hành chính của nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
+2. Cấp chính quyền địa phương gồm có Hội đồng nhân dân và Ủy ban nhân dân được tổ chức phù hợp với đặc điểm nông thôn, đô thị, hải đảo, đơn vị hành chính - kinh tế đặc biệt do luật định.
+
+#### Điều 112
+
+1. Chính quyền địa phương tổ chức và bảo đảm việc thi hành Hiến pháp và pháp luật tại địa phương; quyết định các vấn đề của địa phương do luật định; chịu sự kiểm tra, giám sát của cơ quan nhà nước cấp trên.
+
+2. Nhiệm vụ, quyền hạn của chính quyền địa phương được xác định trên cơ sở phân định thẩm quyền giữa các cơ quan nhà nước ở trung ương và địa phương và của mỗi cấp chính quyền địa phương.
+
+3. Trong trường hợp cần thiết, chính quyền địa phương được giao thực hiện một số nhiệm vụ của cơ quan nhà nước cấp trên với các điều kiện bảo đảm thực hiện nhiệm vụ đó.
+
+#### Điều 113
+
+1. Hội đồng nhân dân là cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân, do Nhân dân địa phương bầu ra, chịu trách nhiệm trước Nhân dân địa phương và cơ quan nhà nước cấp trên.
+
+2. Hội đồng nhân dân quyết định các vấn đề của địa phương do luật định; giám sát việc tuân theo Hiến pháp và pháp luật ở địa phương và việc thực hiện nghị quyết của Hội đồng nhân dân.
+
+#### Điều 114
+
+1. Ủy ban nhân dân ở cấp chính quyền địa phương do Hội đồng nhân dân cùng cấp bầu là cơ quan chấp hành của Hội đồng nhân dân, cơ quan hành chính nhà nước ở địa phương, chịu trách nhiệm trước Hội đồng nhân dân và cơ quan hành chính nhà nước cấp trên.
+
+2. Ủy ban nhân dân tổ chức việc thi hành Hiến pháp và pháp luật ở địa phương; tổ chức thực hiện nghị quyết của Hội đồng nhân dân và thực hiện các nhiệm vụ do cơ quan nhà nước cấp trên giao.
+
+#### Điều 115
+
+1. Đại biểu Hội đồng nhân dân đại diện cho ý chí, nguyện vọng của Nhân dân địa phương; liên hệ chặt chẽ với cử tri, chịu sự giám sát của cử tri, thực hiện chế độ tiếp xúc, báo cáo với cử tri về hoạt động của mình và của Hội đồng nhân dân, trả lời những yêu cầu, kiến nghị của cử tri; xem xét, đôn đốc việc giải quyết khiếu nại, tố cáo. Đại biểu Hội đồng nhân dân có nhiệm vụ vận động Nhân dân thực hiện Hiến pháp và pháp luật, chính sách của Nhà nước, nghị quyết của Hội đồng nhân dân, động viên Nhân dân tham gia quản lý nhà nước.
+
+2. Đại biểu Hội đồng nhân dân có quyền chất vấn Chủ tịch Ủy ban nhân dân, các thành viên khác của Ủy ban nhân dân, Chánh án Tòa án nhân dân, Viện trưởng Viện kiểm sát nhân dân và Thủ trưởng các cơ quan thuộc Ủy ban nhân dân. Người bị chất vấn phải trả lời trước Hội đồng nhân dân. Đại biểu Hội đồng nhân dân có quyền kiến nghị với các cơ quan nhà nước, tổ chức, đơn vị ở địa phương. Người đứng đầu các cơ quan, tổ chức, đơn vị này có trách nhiệm tiếp đại biểu, xem xét, giải quyết kiến nghị của đại biểu.
+
+#### Điều 116
+
+1. Hội đồng nhân dân, Ủy ban nhân dân thực hiện chế độ thông báo tình hình của địa phương cho Mặt trận Tổ quốc Việt Nam và các đoàn thể nhân dân, lắng nghe ý kiến, kiến nghị của các tổ chức này về xây dựng chính quyền và phát triển kinh tế - xã hội ở địa phương; phối hợp với Mặt trận Tổ quốc Việt Nam và các đoàn thể nhân dân động viên Nhân dân cùng Nhà nước thực hiện các nhiệm vụ kinh tế - xã hội, quốc phòng, an ninh ở địa phương.
+
+2. Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam và người đứng đầu tổ chức chính trị - xã hội ở địa phương được mời tham dự các kỳ họp Hội đồng nhân dân và được mời tham dự hội nghị Ủy ban nhân dân cùng cấp khi bàn các vấn đề có liên quan.
+
+## Chương X: Hội đồng bầu cử quốc gia, Kiểm toán nhà nước
+
+#### Điều 117
+
+1. Hội đồng bầu cử quốc gia là cơ quan do Quốc hội thành lập, có nhiệm vụ tổ chức bầu cử đại biểu Quốc hội; chỉ đạo và hướng dẫn công tác bầu cử đại biểu Hội đồng nhân dân các cấp.
+
+2. Hội đồng bầu cử quốc gia gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên.
+
+3. Tổ chức cụ thể, nhiệm vụ, quyền hạn của Hội đồng bầu cử quốc gia và số lượng thành viên Hội đồng bầu cử quốc gia do luật định.
+
+#### Điều 118
+
+1. Kiểm toán nhà nước là cơ quan do Quốc hội thành lập, hoạt động độc lập và chỉ tuân theo pháp luật, thực hiện kiểm toán việc quản lý, sử dụng tài chính, tài sản công.
+
+2. Tổng Kiểm toán nhà nước là người đứng đầu Kiểm toán nhà nước, do Quốc hội bầu. Nhiệm kỳ của Tổng Kiểm toán nhà nước do luật định.
+
+3. Tổng Kiểm toán nhà nước chịu trách nhiệm và báo cáo kết quả kiểm toán, báo cáo công tác trước Quốc hội; trong thời gian Quốc hội không họp, chịu trách nhiệm và báo cáo trước Ủy ban thường vụ Quốc hội.
+
+4. Tổ chức, nhiệm vụ, quyền hạn cụ thể của Kiểm toán nhà nước do luật định.
+
+## Chương XI: Hiệu lực của Hiến pháp và việc sửa đổi Hiến pháp
+
+#### Điều 119
+
+1. Hiến pháp là luật cơ bản của nước Cộng hòa xã hội chủ nghĩa Việt Nam, có hiệu lực pháp lý cao nhất.
+
+Mọi văn bản pháp luật khác phải phù hợp với Hiến pháp.
+
+Mọi hành vi vi phạm Hiến pháp đều bị xử lý.
+
+2. Quốc hội, các cơ quan của Quốc hội, Chủ tịch nước, Chính phủ, Tòa án nhân dân, Viện kiểm sát nhân dân, các cơ quan khác của Nhà nước và toàn thể Nhân dân có trách nhiệm bảo vệ Hiến pháp.
+
+Cơ chế bảo vệ Hiến pháp do luật định.
+
+#### Điều 120
+
+1. Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ hoặc ít nhất một phần ba tổng số đại biểu Quốc hội có quyền đề nghị làm Hiến pháp, sửa đổi Hiến pháp. Quốc hội quyết định việc làm Hiến pháp, sửa đổi Hiến pháp khi có ít nhất hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành.
+
+2. Quốc hội thành lập Ủy ban dự thảo Hiến pháp. Thành phần, số lượng thành viên, nhiệm vụ và quyền hạn của Ủy ban dự thảo Hiến pháp do Quốc hội quyết định theo đề nghị của Ủy ban thường vụ Quốc hội.
+
+3. Ủy ban dự thảo Hiến pháp soạn thảo, tổ chức lấy ý kiến Nhân dân và trình Quốc hội dự thảo Hiến pháp.
+
+4. Hiến pháp được thông qua khi có ít nhất hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành. Việc trưng cầu ý dân về Hiến pháp do Quốc hội quyết định.
+
+5. Thời hạn công bố, thời điểm có hiệu lực của Hiến pháp do Quốc hội quyết định.
